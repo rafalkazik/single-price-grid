@@ -102,7 +102,7 @@ span {
   height: 45px;
   border-radius: 5px;
   font-size: 1.5rem;
-  color: hsl(204, 43%, 93%);
+  color: hsl(202, 52%, 96%);
   filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.05));
 }
 
@@ -139,6 +139,7 @@ span {
     margin: 0;
     width: 50vw;
     max-width: 700px;
+    padding: 50px 0;
   }
 
   .first-box {
@@ -185,6 +186,7 @@ span {
     filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.1));
     transform: scale(1.01);
     color: #fff;
+    cursor: pointer;
   }
 
   .third-box {
